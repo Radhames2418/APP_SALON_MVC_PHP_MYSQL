@@ -6,4 +6,4 @@ Proyecto creado: PHP, MYSQL, JS (FETCH), SCSS
 que a su vez ayuda a la mejora del performance de la aplicacion, siendo una aplicaciona rapida
 El proyecto se le hizo prueba con Cypress.
 
-**LINK DEL VIDEO EXPLICATIVO DE PROYECTO** 
+**LINK DEL VIDEO EXPLICATIVO DE PROYECTO** https://youtu.be/yiQwGAr2nZI
