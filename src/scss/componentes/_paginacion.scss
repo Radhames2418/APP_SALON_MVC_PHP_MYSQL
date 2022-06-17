@@ -1,0 +1,17 @@
+@use 'base/variables'as v;
+@use 'base/mixins'as m;
+
+.paginacion{
+    padding: v.$separacion 0;
+    display: flex; 
+    justify-content: space-between;
+    gap: .5rem;
+    
+    @include m.tablet{
+        gap: 0;
+    }
+}
+
+.ocultar{
+    visibility: hidden;
+}
